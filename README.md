@@ -1,6 +1,7 @@
 ### Olá, eu sou a Giovanna!
 
 - 🌱 Estudando: Desenvolvimento de sistemas - Etec Sales gomes
+- 👩‍🎓 Téc. em Informática para a Internet
 - 😄 Pronomes: ela/dela
 
 <div>
