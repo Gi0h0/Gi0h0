@@ -2,7 +2,9 @@
 
 - 🌱 Estudando: Desenvolvimento de sistemas - Etec Sales gomes
 - 👩‍🎓 Téc. em Informática para a Internet
+-  📷 Email: gigiguayo@gmail.com
 - 😄 Pronomes: ela/dela
+
 
 <div>
   <a href="https://beacons.ai/Gi0ho">
@@ -22,7 +24,6 @@
 ##
 
 <div>
-  <a href="gigiguayo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.linkedin.com/in/giovanna-maiara-juliane-167881285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
