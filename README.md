@@ -3,8 +3,6 @@
 - 🌱 Estudando: Desenvolvimento de sistemas - Etec Sales gomes
 - 👩‍🎓 Téc. em Informática para a Internet
 -  📷 Email: gigiguayo@gmail.com
-- 😄 Pronomes: ela/dela
-
 
 <div>
   <a href="https://beacons.ai/Gi0ho">
